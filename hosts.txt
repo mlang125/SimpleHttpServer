@@ -1,0 +1,2 @@
+someserver.com
+someotherserver.com
